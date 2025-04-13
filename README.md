@@ -1,6 +1,6 @@
 # NewsSense
 
-#📈 AI-Powered Mutual Fund & ETF Insight Engine
+# 📈 AI-Powered Mutual Fund & ETF Insight Engine
 
 **NewsSense** is an AI-powered system developed by a team of four, designed to help users understand the performance of mutual funds and ETFs by connecting market movements with real-world events and news. It leverages advanced Natural Language Processing to uncover the "why" behind fund fluctuations.
 
